@@ -1,0 +1,27 @@
+ h1{
+    color:purple ; font-size: 18px;
+    text-align: center;}
+title{
+    font-family: fantasy; 
+    }
+        p{
+            font-size: 24pxn;
+        text-align: justify;}
+        ul li {
+        margin-bottom: 10px;
+     }
+
+body{ 
+    background-color: rgb(186, 234, 231);
+    padding-block: 10px 20px;
+    img src= list-style-type: border-radius: 10px;
+    }
+table{
+    border: 2px solid black;
+  padding: 10px;
+  text-align: justify;
+
+    }
+a:hover{
+    color: brown;
+   }
